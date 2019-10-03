@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1093431410407",
+    "firebase_url": "https://entregasapp-b6e14.firebaseio.com",
+    "project_id": "entregasapp-b6e14",
+    "storage_bucket": "entregasapp-b6e14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093431410407:android:0720e1d1fd22e94723ac42",
+        "android_client_info": {
+          "package_name": "com.macedo.sistemas.appentregas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093431410407-24telt2kgbfr196rhlduie5sms8ubvk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.macedo.sistemas.appentregas",
+            "certificate_hash": "795b316cf58c59c28a4e014cf7a29021d4c92481"
+          }
+        },
+        {
+          "client_id": "1093431410407-iaon586lfkil5oqsdp42gr8b15etu2ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsLt_1Pw3OMvkIQnoGe6AUth7vB6VgNO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093431410407-iaon586lfkil5oqsdp42gr8b15etu2ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
